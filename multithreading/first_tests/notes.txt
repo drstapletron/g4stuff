@@ -1,0 +1,9 @@
+good (short) intro: https://solarianprogrammer.com/2011/12/16/cpp-11-thread-tutorial/
+
+
+
+STL vectors and thread-(un)safety:
+	http://stackoverflow.com/questions/16465633/how-can-i-use-something-like-stdvectorstdmutex
+	http://stackoverflow.com/questions/9042571/is-stdvector-or-boostvector-thread-safe
+	http://stackoverflow.com/questions/4346742/stl-vector-and-thread-safety
+
